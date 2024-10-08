@@ -1,0 +1,1 @@
+# terraform-docker-ansible-rsyslog
